@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+        <pattern>Hello</pattern>
+        <template>
+            Well, hello Zhafran!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE YOU</pattern>
+        <template>
+            I'm a bot, and I'm kontol!
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT DO YOU DO</pattern>
+        <template>
+            I'm here to annoy you!
+        </template>
+    </category>
+
+    <category>
+        <pattern>Who am i</pattern>
+        <template>
+            You run a crappy YouTube Channel, get a life...
+        </template>
+    </category>
+</aiml>
